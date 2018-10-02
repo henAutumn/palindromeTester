@@ -5,7 +5,12 @@ Feel free to add more components if you think you need them.
 
 While building, consider these steps:
 1) What is the goal of the application (What javascript tools will you need to use to accomplish this)?
-2) Where will state, props or other tools of React help in making this challenge more efficient than vanilla javascript?
-3) Is the current file setup of the application the most efficient? Is there a better way to set up the files to take advantage of class
+2) What is the best way to present a list in React that can show updates in realtime?
+3) Where will state, props or other tools of React help in making this challenge more efficient than vanilla javascript?
+4) Is the current file setup of the application the most efficient? Is there a better way to set up the files to take advantage of class
    and functional components? Consider passing props as well. 
-4) If you want more of a challenge, try creating a backend for this app, and save the 
+5) If you want more of a challenge, try creating a Node Server for this app, and save the lists of Palindromes and NonPalidromes to two separate tables. 
+
+You guys have all the tools you'll need to solve this, try walking through the escalation steps before asking for help!
+
+Good Luck!
