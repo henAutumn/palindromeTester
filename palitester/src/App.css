@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color:#f9a62a;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+.mainDiv {
+  margin: auto;
+  width: 90%;
+  padding: 5px;
+}
+
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.non-pali{
+  text-align: right;
+}
+
+.pali{
+  text-align: left;
+}
